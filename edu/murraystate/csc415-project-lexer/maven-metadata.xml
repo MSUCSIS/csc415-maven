@@ -3,9 +3,10 @@
   <groupId>edu.murraystate</groupId>
   <artifactId>csc415-project-lexer</artifactId>
   <versioning>
+    <release>1.0</release>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20200902231622</lastUpdated>
+    <lastUpdated>20200902233101</lastUpdated>
   </versioning>
 </metadata>
